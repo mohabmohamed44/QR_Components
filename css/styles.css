@@ -48,3 +48,8 @@ p {
     color: hsl(220, 15%, 55%);
     text-align: center;
 }
+
+footer .attribution {
+    margin-top: 30px;
+    font-size: 20px;
+}
